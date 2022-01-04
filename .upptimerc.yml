@@ -16,9 +16,9 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime
   logoUrl: https://www.avayly.com/img/avayly-2.png
-  name: Avayly website monitoring
-  introTitle: "Avayly website monitoring"
-  introMessage: See below how our websites perform
+  name: website monitoring
+  introTitle: "Avayly's websites are fast and stable"
+  introMessage: "Don't trust us? See below how our websites perform"
   navbar:
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
