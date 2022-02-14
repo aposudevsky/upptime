@@ -22,19 +22,19 @@
     "url": "https://avayly.com",
     "icon": "https://favicons.githubusercontent.com/avayly.com",
     "slug": "avayly",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 669,
-    "timeDay": 734,
-    "timeWeek": 623,
-    "timeMonth": 650,
-    "timeYear": 669,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.10%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 666,
+    "timeDay": 627,
+    "timeWeek": 611,
+    "timeMonth": 646,
+    "timeYear": 666,
     "dailyMinutesDown": {
-      "2022-02-14": 0
+      "2022-02-14": 13
     }
   }
 ]
