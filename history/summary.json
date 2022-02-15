@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 722,
-    "timeDay": 332,
+    "time": 712,
+    "timeDay": 247,
     "timeWeek": 198,
-    "timeMonth": 253,
-    "timeYear": 722,
+    "timeMonth": 256,
+    "timeYear": 712,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/avayly.com",
     "slug": "avayly",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
-    "time": 666,
-    "timeDay": 627,
-    "timeWeek": 611,
-    "timeMonth": 646,
-    "timeYear": 666,
-    "dailyMinutesDown": {
-      "2022-02-14": 13
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 662,
+    "timeDay": 517,
+    "timeWeek": 606,
+    "timeMonth": 609,
+    "timeYear": 662,
+    "dailyMinutesDown": {}
   }
 ]
