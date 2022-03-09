@@ -4,19 +4,19 @@
     "url": "https://aposudevsky.com",
     "icon": "https://favicons.githubusercontent.com/aposudevsky.com",
     "slug": "personal-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 949,
-    "timeDay": 14078,
-    "timeWeek": 3617,
-    "timeMonth": 1176,
-    "timeYear": 949,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 937,
+    "timeDay": 9406,
+    "timeWeek": 3222,
+    "timeMonth": 1138,
+    "timeYear": 937,
     "dailyMinutesDown": {
-      "2022-03-09": 0
+      "2022-03-09": 8
     }
   },
   {
