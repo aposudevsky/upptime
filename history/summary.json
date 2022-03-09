@@ -22,7 +22,7 @@
     "url": "https://avayly.com",
     "icon": "https://favicons.githubusercontent.com/avayly.com",
     "slug": "avayly",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,6 +33,8 @@
     "timeWeek": 500,
     "timeMonth": 553,
     "timeYear": 622,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-09": 0
+    }
   }
 ]
